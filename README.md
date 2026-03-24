@@ -5,3 +5,5 @@ A complete data structures and algorithms tutorial file.
 1. Array Traversal - Accessing the elements of the Array.
 2. Insertion - Inserting elements in the Array . The insertion can be at the first index , last index or at any specific index.
 3. Deletion - Deleting the elements from the Array. The deletion can be from the first index, last index or at any specific position.
+4. Searching - Searching an element in the Array . Two Types of searching - Linear & Binary
+4.1 Linear Search - 
