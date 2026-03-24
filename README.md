@@ -6,6 +6,6 @@ A complete data structures and algorithms tutorial file.
 2. Insertion - Inserting elements in the Array . The insertion can be at the first index , last index or at any specific index.
 3. Deletion - Deleting the elements from the Array. The deletion can be from the first index, last index or at any specific position.
 4. Searching - Searching an element in the Array . Two Types of searching : Linear & Binary
- Linear Search - Searching every index for the given element.
- Binary Search  - works on sorted arrays only by divide & conquer technique.
-
+Linear Search - Searching every index for the given element.
+Binary Search  - works on sorted arrays only by divide & conquer technique.
+5. 2 Dimensional Array
