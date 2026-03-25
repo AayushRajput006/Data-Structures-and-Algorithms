@@ -8,5 +8,5 @@ A complete data structures and algorithms tutorial file.
 4. Searching - Searching an element in the Array . Two Types of searching : Linear & Binary.
 Linear Search - Searching every index for the given element.
 Binary Search  - works on sorted arrays only by divide & conquer technique.
-5. 2-Dimensional Array - Representation as rows and columns.
+5. 2-Dimensional Array - Representation as rows and columns indexes.
 6. Conversion - Binary to decimal & Decimal to Binary.
