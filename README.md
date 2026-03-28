@@ -10,5 +10,5 @@ Linear Search - Searching every index for the given element.
 Binary Search  - works on sorted arrays only by divide & conquer technique.
 5. 2-Dimensional Array - Representation as rows and columns indexes.
 6. Conversion - Binary to decimal & Decimal to Binary.
-7. Question -  Majority element in the array  using brute-force approach.
-8. Question - Majority element in the Array.
+7. Question -  Majority element in the Array using brute-force approach.
+8. Question - Majority element in the Array using sorting approach.
