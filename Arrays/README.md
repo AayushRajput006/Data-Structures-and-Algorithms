@@ -10,3 +10,4 @@
 6. Question : Majority Element in Array -> using sorting approach.
 7. Question : Majority Element in Arrat -> Using optimal approach (Moore's voting Algorithm).
 8. Question : Maximum sum of subarray.
+9. Question : Find the Unique element in the Array .
