@@ -12,4 +12,4 @@ Binary Search  - works on sorted arrays only by divide & conquer technique.
 6. Conversion - Binary to decimal & Decimal to Binary.
 7. Question -  Majority element in the Array using brute-force approach.
 8. Question - Majority element in the Array using sorting approach.
-9. Question -
+9. Question - Best time to Buy & Sell stock.
