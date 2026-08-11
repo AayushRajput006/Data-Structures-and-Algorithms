@@ -27,4 +27,8 @@ A complete data structures and algorithms tutorial file.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AayushRajput006/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/AayushRajput006/Data-Structures-and-Algorithms/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
