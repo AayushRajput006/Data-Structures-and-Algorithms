@@ -14,6 +14,7 @@ A complete data structures and algorithms tutorial file.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AayushRajput006/Data-Structures-and-Algorithms/tree/master/0053-maximum-subarray) |
+| [0136-single-number](https://github.com/AayushRajput006/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -22,4 +23,8 @@ A complete data structures and algorithms tutorial file.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AayushRajput006/Data-Structures-and-Algorithms/tree/master/0053-maximum-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/AayushRajput006/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
