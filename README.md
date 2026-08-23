@@ -13,6 +13,7 @@ A complete data structures and algorithms tutorial file.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AayushRajput006/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/AayushRajput006/Data-Structures-and-Algorithms/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/AayushRajput006/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/AayushRajput006/Data-Structures-and-Algorithms/tree/master/0283-move-zeroes) |
@@ -36,4 +37,8 @@ A complete data structures and algorithms tutorial file.
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/AayushRajput006/Data-Structures-and-Algorithms/tree/master/0283-move-zeroes) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/AayushRajput006/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
