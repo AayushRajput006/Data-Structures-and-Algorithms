@@ -10,6 +10,7 @@ A complete data structures and algorithms tutorial file.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/AayushRajput006/Data-Structures-and-Algorithms/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/AayushRajput006/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
 ## Array
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A complete data structures and algorithms tutorial file.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AayushRajput006/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/AayushRajput006/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
 ## Database
 |  |
 | ------- |
@@ -56,4 +58,8 @@ A complete data structures and algorithms tutorial file.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AayushRajput006/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/AayushRajput006/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
