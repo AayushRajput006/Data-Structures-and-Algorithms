@@ -4,13 +4,11 @@ public:
         int maxWater = 0;
         int left = 0;
         int right = height.size() - 1;
-        int currWater = 0;
-        int wdt, ht;
 
         while(left < right){
-            wdt = right - left;
-            ht = min(height[left], height[right]);
-            currWater = wdt * ht;
+            int wdt = right - left;
+            int ht = min(height[left], height[right]);
+            int currWater = wdt * ht;
 
             maxWater = max(maxWater, currWater);
 
