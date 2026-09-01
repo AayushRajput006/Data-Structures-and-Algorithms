@@ -15,6 +15,7 @@ A complete data structures and algorithms tutorial file.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AayushRajput006/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/AayushRajput006/Data-Structures-and-Algorithms/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/AayushRajput006/Data-Structures-and-Algorithms/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AayushRajput006/Data-Structures-and-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/AayushRajput006/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
@@ -42,6 +43,7 @@ A complete data structures and algorithms tutorial file.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AayushRajput006/Data-Structures-and-Algorithms/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/AayushRajput006/Data-Structures-and-Algorithms/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -64,4 +66,8 @@ A complete data structures and algorithms tutorial file.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AayushRajput006/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/AayushRajput006/Data-Structures-and-Algorithms/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
