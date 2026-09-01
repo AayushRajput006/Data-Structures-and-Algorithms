@@ -12,13 +12,7 @@ public:
 
             maxWater = max(maxWater, currWater);
 
-            if(height[left] < height[right]){
-                left ++;
-            }
-
-            else{
-                right--;
-            }
+            (height[left] < height[right] ? left++ : right--);
         }
         return maxWater;
     }
