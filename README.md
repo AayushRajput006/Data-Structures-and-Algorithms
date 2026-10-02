@@ -22,6 +22,7 @@ A complete data structures and algorithms tutorial file.
 | [0136-single-number](https://github.com/AayushRajput006/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/AayushRajput006/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/AayushRajput006/Data-Structures-and-Algorithms/tree/master/0283-move-zeroes) |
+| [0540-single-element-in-a-sorted-array](https://github.com/AayushRajput006/Data-Structures-and-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AayushRajput006/Data-Structures-and-Algorithms/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
 |  |
@@ -76,6 +77,7 @@ A complete data structures and algorithms tutorial file.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/AayushRajput006/Data-Structures-and-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/AayushRajput006/Data-Structures-and-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AayushRajput006/Data-Structures-and-Algorithms/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
 |  |
