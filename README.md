@@ -48,6 +48,7 @@ A complete data structures and algorithms tutorial file.
 | ------- |
 | [0011-container-with-most-water](https://github.com/AayushRajput006/Data-Structures-and-Algorithms/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/AayushRajput006/Data-Structures-and-Algorithms/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/AayushRajput006/Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,4 +84,8 @@ A complete data structures and algorithms tutorial file.
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AayushRajput006/Data-Structures-and-Algorithms/tree/master/0852-peak-index-in-a-mountain-array) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/AayushRajput006/Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
